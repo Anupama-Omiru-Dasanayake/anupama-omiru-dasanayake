@@ -68,7 +68,7 @@
 
 <!-- ==================== TECH STACK ==================== -->
 <tr>
-<td colspan="1">
+<td colspan="4">
 
 <h3 align="center">Tech Stack</h3>
 
