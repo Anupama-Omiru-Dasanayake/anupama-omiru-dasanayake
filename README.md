@@ -1,4 +1,4 @@
-<h1 align="center">ANUPAMA OMIRU DASANAYAKE </h1>
+<h1 align="center">Anupama Omiru Dasanayake</h1>
 
 <p align="center">
   <sub> Computer Science Undergraduate | Aspiring Software Engineer </sub>
