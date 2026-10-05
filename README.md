@@ -26,6 +26,7 @@
 <td width="50%" valign="top">
 
 <h3 align="center">About Me</h3>
+
 ---
 
 <ul>
@@ -43,6 +44,7 @@
 <td width="50%" valign="top">
 
 <h3 align="center">What I Like Building</h3>
+
 ---
 
 <ul>
