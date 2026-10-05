@@ -107,9 +107,21 @@
 
 
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=github_light&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+</picture>
 
 
 </td>
@@ -117,20 +129,29 @@
 <td width="25%" valign="middle" colspan="2">
 
 
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+</picture>
 
-<p align="center">
-<img
-src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
-width="100%"
-/>
-</p>
+
+
 
 </td>
 
 </tr>
 
-
-<!-- ==================== CURRENTLY LEARNING ==================== -->
 
 
 </table>
