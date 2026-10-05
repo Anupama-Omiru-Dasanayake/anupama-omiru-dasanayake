@@ -105,25 +105,18 @@
 
 <td width="25%" valign="top" colspan="2">
 
-<h2 align="center">What I Like Building</h2>
+<h3 align="center">Top Languages</h3>
 
-<ul>
-<li>Web Applications</li>
-<li>API-based Applications</li>
-<li>Database Applications</li>
-<li>Intelligent Applications</li>
-<li>Data-driven Applications</li>
-<li>Full-Stack Systems</li>
-<li>Developer Tools</li>
-  <br>
-</ul>
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
 
 </td>
 
 <td width="25%" valign="top" colspan="2">
 
-<h2 align="center">Contribution Streak</h2>
+<h3 align="center">Contribution Streak</h3>
 
 <p align="center">
 <img
