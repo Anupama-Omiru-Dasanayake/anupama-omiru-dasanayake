@@ -19,7 +19,7 @@
 
 ---
 
-<h2 > About Me </h2>
+<h1 > About Me </h1>
 
 -  Computer Science undergraduate at the **University of Westminster**
 -  Focused on **Full-Stack Web Development** with **React** and **Node.js**
@@ -132,97 +132,6 @@ width="100%"
 
 
 <!-- ==================== CURRENTLY LEARNING ==================== -->
-<tr>
-<td colspan="2">
-
-<h1 align="center">Currently Learning</h1>
-
-<table width="100%" align="center">
-
-<tr>
-<th width="25%" align="center">React</th>
-<th width="25%" align="center">Java</th>
-<th width="25%" align="center">Databases</th>
-<th width="25%" align="center">Machine Learning</th>
-</tr>
-
-<tr>
-<td>Components</td>
-<td>Object-Oriented Programming</td>
-<td>SQL</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Props</td>
-<td>Classes & Objects</td>
-<td>Database Design</td>
-<td></td>
-</tr>
-
-<tr>
-<td>State</td>
-<td>Inheritance</td>
-<td>MySQL</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Hooks</td>
-<td>Polymorphism</td>
-<td>MongoDB</td>
-<td></td>
-</tr>
-
-<tr>
-<td>API Integration</td>
-<td>Encapsulation</td>
-<td>NoSQL</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Component Architecture</td>
-<td>Abstraction</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Routing</td>
-<td>Collections</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Advanced React Patterns</td>
-<td>Data Structures</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-<td>Algorithms</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-<td>File I/O</td>
-<td></td>
-<td></td>
-</tr>
-
-
-</table>
-<br>
-
-</td>
-
-</tr>
 
 
 </table>
