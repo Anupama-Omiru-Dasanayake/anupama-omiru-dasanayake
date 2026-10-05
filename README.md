@@ -29,7 +29,7 @@
 
 ---
 
-<ul align="center">
+<ul>
   <li>Computer Science undergraduate at the <strong>University of Westminster</strong></li>
   <li>Focused on <strong>Full-Stack Web Development</strong> with <strong>React</strong> and <strong>Node.js</strong></li>
   <li>Building my foundations in <strong>Java, OOP, and Data Structures & Algorithms</strong></li>
@@ -47,7 +47,7 @@
 
 ---
 
-<ul>
+<ul  align="center">
   <li> Web Applications</li>
   <li> API-based Applications</li>
   <li> Database Applications</li>
