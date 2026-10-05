@@ -20,12 +20,12 @@
 
 ---
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 
 <ul>
   <li>Computer Science undergraduate at the <strong>University of Westminster</strong></li>
@@ -40,7 +40,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">What I Like Building</h3>
+<h2 align="center">What I Like Building</h2>
 
 <ul>
   <li> Web Applications</li>
