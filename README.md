@@ -23,7 +23,7 @@
 <table width="100%" align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 <h3 align="center">About Me</h3>
 
@@ -64,7 +64,7 @@
 
 
 
-<table width="110%" align="center">
+<table width="100%" align="center">
 
 <!-- ==================== TECH STACK ==================== -->
 <tr>
