@@ -23,9 +23,9 @@
 <table width="100%">
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-<h2>About Me</h2>
+<h3 align="center">About Me</h3>
 
 <ul>
   <li>Computer Science undergraduate at the <strong>University of Westminster</strong></li>
@@ -38,9 +38,9 @@
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-<h2>What I Like Building</h2>
+<h3 align="center">What I Like Building</h3>
 
 <ul>
   <li> Web Applications</li>
