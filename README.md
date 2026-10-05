@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/anupama-omiru/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Anupama-Omiru-Dasanayake&style=flat-square&color=0A66C2" alt="Profile views"/>
 </p>
 
 ---
@@ -141,7 +142,5 @@ width="100%"
 
 </table>
 
-<p >
-  <img src="https://komarev.com/ghpvc/?username=Anupama-Omiru-Dasanayake&style=flat-square&color=0A66C2" alt="Profile views"/>
-</p>
+
 
