@@ -105,7 +105,7 @@
 
 <td width="25%" valign="top" colspan="2">
 
-<h3 align="center">Top Languages</h3>
+
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
@@ -116,7 +116,7 @@
 
 <td width="25%" valign="top" colspan="2">
 
-<h3 align="center">Contribution Streak</h3>
+
 
 <p align="center">
 <img
