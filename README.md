@@ -222,3 +222,7 @@ width="100%"
 
 </table>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anupama-Omiru-Dasanayake&style=flat-square&color=0A66C2" alt="Profile views"/>
+</p>
+
