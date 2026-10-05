@@ -102,7 +102,7 @@
 <!-- ==================== BUILDING + STREAK ==================== -->
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h2 align="center">What I Like Building</h2>
 
