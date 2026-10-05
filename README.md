@@ -25,7 +25,8 @@
 
 <td width="50%" valign="top">
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
+---
 
 <ul>
   <li>Computer Science undergraduate at the <strong>University of Westminster</strong></li>
@@ -34,13 +35,15 @@
   <li>Working with <strong>SQL, MongoDB, and REST APIs</strong></li>
   <li>Focused on writing readable, well-structured code and maintaining clean project architecture</li>
   <li>Always learning and continuously sharpening my <strong>React</strong> and <strong>Java</strong> skills</li>
+  <br>
 </ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2 align="center">What I Like Building</h2>
+<h3 align="center">What I Like Building</h3>
+---
 
 <ul>
   <li> Web Applications</li>
