@@ -64,7 +64,7 @@
 
 
 
-<table width="100%" align="center">
+<table width="110%" align="center">
 
 <!-- ==================== TECH STACK ==================== -->
 <tr>
