@@ -103,18 +103,21 @@
 <!-- ==================== BUILDING + STREAK ==================== -->
 <tr>
 
-<td width="25%" valign="middle" colspan="2">
+<td width="25%" align="center" valign="middle" colspan="2">
 
 
 
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<a href="https://github.com/Anupama-Omiru-Dasanayake">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</a>
 
 
 </td>
 
-<td width="25%" valign="middle" colspan="2">
+<td width="25%" align="center" valign="middle" colspan="2">
 
 <p>
 <img height="165" src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true" alt="Top Languages"/>
