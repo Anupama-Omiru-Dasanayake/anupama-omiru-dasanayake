@@ -39,6 +39,7 @@
 <h2 align="center">Tech Stack</h2>
 <br>
 
+<table width="100%" align="center">
 
 <tr>
 <th width="25%" align="center">Programming Languages</th>
@@ -89,6 +90,7 @@
 
 </tr>
 
+</table>
 
 </br>
 
