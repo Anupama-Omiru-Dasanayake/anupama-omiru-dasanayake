@@ -41,7 +41,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <h3 align="center">What I Like Building</h3>
 
@@ -68,7 +68,7 @@
 
 <!-- ==================== TECH STACK ==================== -->
 <tr>
-<td colspan="4">
+<td colspan="1">
 
 <h3 align="center">Tech Stack</h3>
 
