@@ -104,7 +104,7 @@
 
 <td width="25%" valign="top" colspan="2">
 
-<h3 align="center">What I Like Building</h3>
+<h2 align="center">What I Like Building</h2>
 
 <ul>
 <li>Web Applications</li>
@@ -114,14 +114,15 @@
 <li>Data-driven Applications</li>
 <li>Full-Stack Systems</li>
 <li>Developer Tools</li>
+  <br>
 </ul>
-<br>
+
 
 </td>
 
 <td width="25%" valign="top" colspan="2">
 
-<h3 align="center">Contribution Streak</h3>
+<h2 align="center">Contribution Streak</h2>
 
 <p align="center">
 <img
@@ -140,7 +141,7 @@ width="100%"
 
 </table>
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=Anupama-Omiru-Dasanayake&style=flat-square&color=0A66C2" alt="Profile views"/>
 </p>
 
