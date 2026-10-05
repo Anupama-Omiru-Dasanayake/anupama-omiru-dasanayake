@@ -102,7 +102,7 @@
 <!-- ==================== BUILDING + STREAK ==================== -->
 <tr>
 
-<td width="100%" valign="top">
+<td width="25%" valign="top">
 
 <h2 align="center">What I Like Building</h2>
 
@@ -118,7 +118,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 <h2 align="center">Contribution Streak</h2>
 
