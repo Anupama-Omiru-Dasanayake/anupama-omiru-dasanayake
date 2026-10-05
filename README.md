@@ -37,6 +37,7 @@
 <td colspan="2">
 
 <h2 align="center">Tech Stack</h2>
+<br>
 
 <table width="100%" align="center">
 <tr>
