@@ -23,7 +23,7 @@
 <table width="100%" align="center">
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 <h3 align="center">About Me</h3>
 
@@ -41,7 +41,7 @@
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 <h3 align="center">What I Like Building</h3>
 
