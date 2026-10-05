@@ -19,7 +19,7 @@
 
 ---
 
-<h1 > About Me </h1>
+<h2 > About Me </h2>
 
 -  Computer Science undergraduate at the **University of Westminster**
 -  Focused on **Full-Stack Web Development** with **React** and **Node.js**
@@ -34,7 +34,7 @@
 
 <!-- ==================== TECH STACK ==================== -->
 <tr>
-<td colspan="2">
+<td colspan="3">
 
 <h3 align="center">Tech Stack</h3>
 
