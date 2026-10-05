@@ -48,7 +48,7 @@
 ---
 
 <ul  >
-  <li align="center"> Web Applications</li>
+  <li > Web Applications</li>
   <li> API-based Applications</li>
   <li> Database Applications</li>
   <li> Intelligent Applications</li>
