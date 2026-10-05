@@ -103,7 +103,7 @@
 <!-- ==================== BUILDING + STREAK ==================== -->
 <tr>
 
-<td width="25%" valign="top" colspan="2">
+<td width="25%" valign="center" colspan="2">
 
 
 
