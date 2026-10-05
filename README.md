@@ -42,10 +42,10 @@
 
 
 <tr>
-<th width="25%" align="center">Programming Languages</th>
-<th width="25%" align="center">Frontend</th>
-<th width="25%" align="center">Backend & Databases</th>
-<th width="25%" align="center">Tools & Platforms</th>
+<th width="50%" align="center">Programming Languages</th>
+<th width="50%" align="center">Frontend</th>
+<th width="50%" align="center">Backend & Databases</th>
+<th width="50%" align="center">Tools & Platforms</th>
 </tr>
 
 <tr>
