@@ -21,7 +21,12 @@
 
 <h1 > About Me </h1>
 
-I'm a Computer Science undergraduate at the **University of Westminster** with a strong interest in **Full-Stack Web Development** and building practical software solutions. I'm currently focusing on **React and modern JavaScript**, while developing my skills in **Java and Object-Oriented Programming** and working with **Python**. I'm also learning **SQL, Database Design, and MongoDB**, and building applications that integrate **REST APIs**. I use **Git and GitHub** for version control and continuously improve my understanding of **Data Structures and Algorithms** through hands-on projects.
+-  Computer Science undergraduate at the **University of Westminster**
+-  Focused on **Full-Stack Web Development** with **React** and **Node.js**
+-  Building my foundations in **Java, OOP, and Data Structures & Algorithms**
+-  Working with **SQL, MongoDB, and REST APIs**
+-  Focus on writing readable, well-commented code and maintaining a clean project architecture.
+-  Always learning — currently sharpening my React and Java skills
 
 --- 
 
