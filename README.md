@@ -118,7 +118,7 @@
 
 </td>
 
-<td width="25%" valign="top">
+<td width="25%" valign="top" colspan="2">
 
 <h2 align="center">Contribution Streak</h2>
 
