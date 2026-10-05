@@ -41,11 +41,11 @@
 
 
 
-<tr width = "100%">
-<th  align="center">Programming Languages</th>
-<th  align="center">Frontend</th>
-<th  align="center">Backend & Databases</th>
-<th  align="center">Tools & Platforms</th>
+<tr >
+<th width="25%" align="center">Programming Languages</th>
+<th width="25%" align="center">Frontend</th>
+<th width="25%" align="center">Backend & Databases</th>
+<th width="25%" align="center">Tools & Platforms</th>
 </tr>
 
 <tr>
@@ -104,7 +104,7 @@
 
 <td width="25%" valign="top" colspan="2">
 
-<h2 align="center">What I Like Building</h2>
+<h3 align="center">What I Like Building</h3>
 
 <ul>
 <li>Web Applications</li>
@@ -120,7 +120,7 @@
 
 <td width="25%" valign="top" colspan="2">
 
-<h2 align="center">Contribution Streak</h2>
+<h3 align="center">Contribution Streak</h3>
 
 <p align="center">
 <img
