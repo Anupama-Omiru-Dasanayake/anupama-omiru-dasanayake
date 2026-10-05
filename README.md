@@ -36,8 +36,8 @@
 <tr>
 <td colspan="2">
 
-<h2 align="center">Tech Stack</h2>
-<br>
+<h3 align="center">Tech Stack</h3>
+
 
 <table width="100%" align="center">
 
