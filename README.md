@@ -20,14 +20,42 @@
 
 ---
 
-<h2 > About Me </h2>
+<table width="100%">
+<tr>
 
--  Computer Science undergraduate at the **University of Westminster**
--  Focused on **Full-Stack Web Development** with **React** and **Node.js**
--  Building my foundations in **Java, OOP, and Data Structures & Algorithms**
--  Working with **SQL, MongoDB, and REST APIs**
--  Focus on writing readable, well-commented code and maintaining a clean project architecture.
--  Always learning — currently sharpening my React and Java skills
+<td width="55%" valign="top">
+
+<h2>About Me</h2>
+
+<ul>
+  <li>Computer Science undergraduate at the <strong>University of Westminster</strong></li>
+  <li>Focused on <strong>Full-Stack Web Development</strong> with <strong>React</strong> and <strong>Node.js</strong></li>
+  <li>Building my foundations in <strong>Java, OOP, and Data Structures & Algorithms</strong></li>
+  <li>Working with <strong>SQL, MongoDB, and REST APIs</strong></li>
+  <li>Focused on writing readable, well-structured code and maintaining clean project architecture</li>
+  <li>Always learning and continuously sharpening my <strong>React</strong> and <strong>Java</strong> skills</li>
+</ul>
+
+</td>
+
+<td width="45%" valign="top">
+
+<h2>What I Like Building</h2>
+
+<ul>
+  <li> Web Applications</li>
+  <li> API-based Applications</li>
+  <li> Database Applications</li>
+  <li> Intelligent Applications</li>
+  <li> Data-driven Applications</li>
+  <li> Full-Stack Systems</li>
+  <li> Developer Tools</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
 
 --- 
 
