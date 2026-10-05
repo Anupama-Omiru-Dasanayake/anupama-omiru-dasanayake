@@ -1,9 +1,8 @@
-<h1 align="center">Anupama Omiru Dasanayake </h1>
+<h1 align="center">Hi, I'm Anupama Omiru Dasanayake 👋</h1>
 
 <p align="center">
-  <sub> Computer Science Undergraduate | Aspiring Software Engineer </sub>
+  <sub>Computer Science Undergraduate · Aspiring Software Engineer</sub>
 </p>
-
 
 <p align="center">
   <a href="mailto:anupama.omiru.d@gmail.com">
@@ -15,214 +14,159 @@
   <a href="https://www.linkedin.com/in/anupama-omiru/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <!-- Add your portfolio link here if you have one -->
 </p>
-
----
-
-<h1 > About Me </h1>
-
-I'm a Computer Science undergraduate at the **University of Westminster** with a strong interest in **Full-Stack Web Development** and building practical software solutions. I'm currently focusing on **React and modern JavaScript**, while developing my skills in **Java and Object-Oriented Programming** and working with **Python**. I'm also learning **SQL, Database Design, and MongoDB**, and building applications that integrate **REST APIs**. I use **Git and GitHub** for version control and continuously improve my understanding of **Data Structures and Algorithms** through hands-on projects.
-
---- 
-
-<table width="100%" align="center">
-
-<!-- ==================== TECH STACK ==================== -->
-<tr>
-<td colspan="2">
-
-<h1 align="center">Tech Stack</h1>
-
-<table width="100%" align="center">
-<tr>
-<th width="25%" align="center">Programming Languages</th>
-<th width="25%" align="center">Frontend</th>
-<th width="25%" align="center">Backend & Databases</th>
-<th width="25%" align="center">Tools & Platforms</th>
-</tr>
-
-<tr>
-
-<td width="25%" align="center">
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-
-</td>
-
-<td width="25%" align="center">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
-</td>
-
-<td width="25%" align="center">
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-</td>
-
-<td width="25%" align="center">
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-</td>
-
-</tr>
-</table>
-
-</br>
-
-</td>
-</tr>
-
-
-
-<!-- ==================== BUILDING + STREAK ==================== -->
-<tr>
-
-<td width="50%" valign="top">
-
-<h2 align="center">What I Like Building</h2>
-
-<ul>
-<li>Web Applications</li>
-<li>API-based Applications</li>
-<li>Database Applications</li>
-<li>Intelligent Applications</li>
-<li>Data-driven Applications</li>
-<li>Full-Stack Systems</li>
-<li>Developer Tools</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2 align="center">Contribution Streak</h2>
-
-<p align="center">
-<img
-src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
-width="100%"
-/>
-</p>
-
-</td>
-
-</tr>
-
-
-<!-- ==================== CURRENTLY LEARNING ==================== -->
-<tr>
-<td colspan="2">
-
-<h1 align="center">Currently Learning</h1>
-
-<table width="100%" align="center">
-
-<tr>
-<th width="25%" align="center">React</th>
-<th width="25%" align="center">Java</th>
-<th width="25%" align="center">Databases</th>
-<th width="25%" align="center">Machine Learning</th>
-</tr>
-
-<tr>
-<td>Components</td>
-<td>Object-Oriented Programming</td>
-<td>SQL</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Props</td>
-<td>Classes & Objects</td>
-<td>Database Design</td>
-<td></td>
-</tr>
-
-<tr>
-<td>State</td>
-<td>Inheritance</td>
-<td>MySQL</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Hooks</td>
-<td>Polymorphism</td>
-<td>MongoDB</td>
-<td></td>
-</tr>
-
-<tr>
-<td>API Integration</td>
-<td>Encapsulation</td>
-<td>NoSQL</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Component Architecture</td>
-<td>Abstraction</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Routing</td>
-<td>Collections</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Advanced React Patterns</td>
-<td>Data Structures</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-<td>Algorithms</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td></td>
-<td>File I/O</td>
-<td></td>
-<td></td>
-</tr>
-
-
-</table>
-<br>
-
-</td>
-
-</tr>
-
-
-</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anupama-Omiru-Dasanayake&style=flat-square&color=0A66C2" alt="Profile views"/>
 </p>
 
+---
+
+## 🧑💻 About Me
+
+- 🎓 Computer Science undergraduate at the **University of Westminster**
+- 💻 Focused on **Full-Stack Web Development** with **React** and **Node.js**
+- 🧠 Building my foundations in **Java, OOP, and Data Structures & Algorithms**
+- 🗄️ Working with **SQL, MongoDB, and REST APIs**
+- 🎯 Currently seeking a **software engineering internship**
+- 🌱 Always learning — currently sharpening my React and Java skills
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anupama-Omiru-Dasanayake&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama-Omiru-Dasanayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace these with your actual best projects. Pin the same repos on your profile. -->
+
+| Project | Description | Tech |
+|---|---|---|
+| [Project One](https://github.com/Anupama-Omiru-Dasanayake) | Short one-line description of what it does | React, Node, MongoDB |
+| [Project Two](https://github.com/Anupama-Omiru-Dasanayake) | Short one-line description of what it does | Java, MySQL |
+| [Project Three](https://github.com/Anupama-Omiru-Dasanayake) | Short one-line description of what it does | Python, REST API |
+
+> 💡 Tip: Pin these same repos on your GitHub profile so they appear right below your README.
+
+---
+
+## 🌱 Currently Learning
+
+<table>
+<tr>
+<th>React</th>
+<th>Java & OOP</th>
+<th>Databases</th>
+<th>DSA</th>
+</tr>
+<tr valign="top">
+<td>
+
+- Hooks & Context
+- Advanced patterns
+- Routing
+- API integration
+
+</td>
+<td>
+
+- Inheritance & polymorphism
+- Collections
+- File I/O
+- Design principles
+
+</td>
+<td>
+
+- SQL queries
+- Database design
+- MongoDB
+- NoSQL concepts
+
+</td>
+<td>
+
+- Data structures
+- Algorithms
+- Problem solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 What I Like Building
+
+Web apps · API-based systems · Full-stack applications · Database-driven tools · Developer utilities
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:anupama.omiru.d@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/anupama-omiru/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Anupama-Omiru-Dasanayake">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
