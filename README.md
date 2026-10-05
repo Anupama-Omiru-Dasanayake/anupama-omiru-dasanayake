@@ -41,7 +41,7 @@
 
 
 
-<tr>
+<tr width = "100%">
 <th  align="center">Programming Languages</th>
 <th  align="center">Frontend</th>
 <th  align="center">Backend & Databases</th>
